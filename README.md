@@ -1,7 +1,7 @@
 # contract-form
 
-It is based on a contract form where we have to inform:
-The name
+It is based on a contract form where we have to inform:<br>
+The name <br>
 Surname 
 E-mail
 Which application the user develops
