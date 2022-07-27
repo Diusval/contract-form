@@ -1,5 +1,13 @@
 ## 📍Project - contract-form.
-Codepen link -->https://codepen.io/diusval/pen/VwXMGRN<br>
+
+It is based on a contract form where we have to inform: <br>
+The name. <br>
+Surname. <br>
+E-mail. <br>
+Which application the user develops. <br>
+Seniority. <br>
+The technologies he uses. <br>
+Also asks to tell a little about something.<br>
 
 ## 🧩Technologies Used.
 
@@ -9,14 +17,7 @@ Codepen link -->https://codepen.io/diusval/pen/VwXMGRN<br>
   </a>
 </p>
 
-It is based on a contract form where we have to inform: <br>
-The name. <br>
-Surname. <br>
-E-mail. <br>
-Which application the user develops. <br>
-Seniority. <br>
-The technologies he uses. <br>
-Also asks to tell a little about something.
+Codepen link -->https://codepen.io/diusval/pen/VwXMGRN<br>
 
 ## 👋🏼Contact.
 
