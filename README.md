@@ -7,7 +7,6 @@ Which application the user develops. <br>
 Seniority. <br>
 The technologies he uses. <br>
 Also asks to tell a little about something.
-**Página de Visualização:** https://home-you.vercel.app
 
 ## 🧩Technologies Used.
 
