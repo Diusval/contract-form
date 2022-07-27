@@ -1,5 +1,4 @@
-# contract-form
-
+## 📍Project - contract-form.
 It is based on a contract form where we have to inform: <br>
 The name. <br>
 Surname. <br>
@@ -8,3 +7,16 @@ Which application the user develops. <br>
 Seniority. <br>
 The technologies he uses. <br>
 Also asks to tell a little about something.
+**Página de Visualização:** https://home-you.vercel.app
+
+## 🧩Technologies Used.
+
+<p align="left" alt="Diusval" height="30" width="40">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
+## 👋🏼Contact.
+
+ - [LinkedIn](https://www.linkedin.com/in/diusval)
